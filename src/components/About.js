@@ -62,7 +62,7 @@ function About() {
           <div className="about-flip-card-back">
             <h1>About</h1>
             <p>
-              Hi, I'm Kelvin. I have over 3 years of experience in game development using Unity and 1 year in web development with React. I specialize in creating innovative and immersive experiences. My experience allows me to adapt and excel in both fields. I am looking to collaborate on projects that push the boundaries of storytelling, gameplay, and web functionality. My goal is to contribute to a dynamic team and revolutionize both industries.
+              Hi, I'm Kelvin. I have over 3 years of experience in game development using Unity and 2 year in web development with React. I specialize in creating innovative and immersive experiences. My experience allows me to adapt and excel in both fields. I am looking to collaborate on projects that push the boundaries of storytelling, gameplay, and web functionality. My goal is to contribute to a dynamic team and revolutionize both industries.
             </p>
           </div>
         </div>
