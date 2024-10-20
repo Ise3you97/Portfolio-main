@@ -83,7 +83,7 @@ function About() {
             <div className="tech-icon">
               <i className="bi bi-person-badge"></i>
               <p>
-                <strong>Web Developer Freelancer</strong>
+                <strong>Frontend Developer</strong>
               </p>
             </div>
             <div className="tech-icon">
