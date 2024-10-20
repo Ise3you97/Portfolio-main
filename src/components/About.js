@@ -89,7 +89,7 @@ function About() {
             <div className="tech-icon">
               <i className="bi bi-person"></i>
               <p>
-                <strong>Junior Web Developer</strong>
+                <strong>Full Stack Web Developer</strong>
               </p>
             </div>
             <div className="tech-icon">
